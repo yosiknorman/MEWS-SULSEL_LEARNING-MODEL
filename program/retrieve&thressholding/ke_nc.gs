@@ -1,0 +1,6 @@
+'open 201801010000.tir.01.ctl'
+'set lat -8 -2'
+'set lon 117 123'
+'define suhu=tbb'
+'set sdfwrite 201801010000.tir.01.nc'
+'sdfwrite suhu'
